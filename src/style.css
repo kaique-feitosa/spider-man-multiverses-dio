@@ -1,0 +1,19 @@
+:root {
+  --primary-color: #b9001f;
+}
+
+* {
+  border: none;
+  color: #fff;
+  font-family: "Poppins", sans-serif;
+  font-size: 1rem;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  vertical-align: baseline;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+}
